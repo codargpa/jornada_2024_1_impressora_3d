@@ -9,6 +9,14 @@ Workshop apresentado na Jornada Interdisciplinar organizada pela Faculdade SENAC
 - Gledson Albuquerque [@codargpa](https://www.github.com/codargpa)
 - Kennet Soto [@KennetSoto](https://www.github.com/KennetSoto)
 - Gustavo Saraiva [@GustavojSaraiva](https://www.github.com/GustavojSaraiva)
+## Repositórios Modelos 3D
+
+Geral
+ - [ UltiMaker Thingiverse](https://www.thingiverse.com/thing:2804703)
+ - [ Printables](https://www.printables.com/)
+ - [Thangs](https://thangs.com/)
+ - [Myminifactory](https://www.myminifactory.com/)
+ - [cults.](https://cults3d.com/en)
 ## Referência
 Primeiros passos
 - [ Montagem Impressora Ender 3](https://www.youtube.com/watch?v=tOFj_ONXBWY)
